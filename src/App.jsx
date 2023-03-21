@@ -113,7 +113,7 @@ second part start
 
 
 
-<div className="bg-gradient-to-r from-violet-500 to-fuchsia-500 rounded-lg  mb-44">
+<div className="bg-gradient-to-r from-violet-500 to-fuchsia-500 rounded-sm  mb-44">
 
 
   <Footer/>
